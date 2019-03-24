@@ -1,42 +1,167 @@
-{
-  "Districts": [
-    {
-      "id": 1,
-      "title": "Corozal"
-    },
-    {
-      "id": 2,
-      "title": "Belize"
-    },
-    {
-      "id": 3,
-      "title": "Cayo"
-    },
-    {
-      "id": 4,
-      "title": "Stann Creek"
-    },
-    {
-      "id": 5,
-      "title": "Toledo"
-    },
-    {
-      "id": 6,
-      "title": "San Pedro"
-    },
-    {
-      "id": 7,
-      "title": "Caye Caulker"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
+
+  {
+    "Districts": [
+      {
+        "title": "Ambergris Caye",
+        "id": 1
+      },
+      {
+        "title": "Caye Caulker",
+        "id": 2
+      },
+      {
+        "title": "San Ignacio",
+        "id": 3
+      },
+      {
+        "title": "Placencia",
+        "id": 4
+      },
+      {
+        "title": "Hopkins",
+        "id": 5
+      },
+      {
+        "title": "Belize City",
+        "id": 6
+      },
+      {
+        "title": "Glover's Reef",
+        "id": 7
+      },
+      {
+        "title": "Orange Walk",
+        "id": 8
+      },
+      {
+        "title": "Toledo",
+        "id": 9
+      },
+      {
+        "title": "Corozal",
+        "id": 10
+      }
+    ],
+    "Restaurants": [
+      {
+        "Ambergris Caye": [
+          {
+            "title": "Blues",
+            "directions": "ssdsds, street",
+            "phone": 6047891,
+            "open": 10,
+            "closes": 20,
+            "img": "cz/1.png"
+          }
+      ]
+      },
+      {
+       "Caye Caulker": [
+          {
+            "title": "Blues",
+            "directions": "ssdsds, street",
+            "phone": 6047891,
+            "open": 10,
+            "closes": 20,
+            "img": "cz/1.png"
+          }
+          ]
+      },
+      {
+        "San Ignacio": [
+          {
+            "title": "Blues",
+            "directions": "ssdsds, street",
+            "phone": 6047891,
+            "open": 10,
+            "closes": 20,
+            "img": "cz/1.png"
+          }
+          ]
+      },
+      {
+        "Placencia": [
+          {
+            "title": "Blues",
+            "directions": "ssdsds, street",
+            "phone": 6047891,
+            "open": 10,
+            "closes": 20,
+            "img": "cz/1.png"
+          }
+          ]
+      },
+      {
+        "Hopkins": [
+          {
+            "title": "Blues",
+            "directions": "ssdsds, street",
+            "phone": 6047891,
+            "open": 10,
+            "closes": 20,
+            "img": "cz/1.png"
+          }
+          ]
+      },
+      {
+       "Belize City": [
+          {
+            "title": "Blues",
+            "directions": "ssdsds, street",
+            "phone": 6047891,
+            "open": 10,
+            "closes": 20,
+            "img": "cz/1.png"
+          }
+          ]
+      },
+      {
+       "Glover's Reef": [
+          {
+            "title": "Blues",
+            "directions": "ssdsds, street",
+            "phone": 6047891,
+            "open": 10,
+            "closes": 20,
+            "img": "cz/1.png"
+          }
+          ]
+      },
+      {
+       "Orange Walk": [
+          {
+            "title": "Blues",
+            "directions": "ssdsds, street",
+            "phone": 6047891,
+            "open": 10,
+            "closes": 20,
+            "img": "cz/1.png"
+          }
+          ]
+      },
+      {
+        "Toledo": [
+          {
+            "title": "Blues",
+            "directions": "ssdsds, street",
+            "phone": 6047891,
+            "open": 10,
+            "closes": 20,
+            "img": "cz/1.png"
+          }
+        ]
+      },
+      {
+        "Corozal": [
+          {
+            "title": "Blues",
+            "directions": "ssdsds, street",
+            "phone": 6047891,
+            "open": 10,
+            "closes": 20,
+            "img": "cz/1.png"
+          }
+        ]
+      }
+    ]
   }
-}
