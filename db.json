@@ -1,0 +1,42 @@
+{
+  "Districts": [
+    {
+      "id": 1,
+      "title": "Corozal"
+    },
+    {
+      "id": 2,
+      "title": "Belize"
+    },
+    {
+      "id": 3,
+      "title": "Cayo"
+    },
+    {
+      "id": 4,
+      "title": "Stann Creek"
+    },
+    {
+      "id": 5,
+      "title": "Toledo"
+    },
+    {
+      "id": 6,
+      "title": "San Pedro"
+    },
+    {
+      "id": 7,
+      "title": "Caye Caulker"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
